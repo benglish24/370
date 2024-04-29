@@ -1,0 +1,11 @@
+Section 2 focuses primarily on the interpretation of the corpus.
+overall, the biggest struggle was dividing the corpus into
+different songs to analyze the average polarity of their songs.
+The main focus is to see what songs have a negative or positive connotation
+and sort them accordingly into playlists.
+
+The goal of this section is to separate the songs based on their scores so 
+that further development of this project can lead to anyone
+scraping AZLyrics, parse through a list of songs, find the polarity
+of the sentences(positive or negative), and returns two playlists
+containing the positive and negative songs
