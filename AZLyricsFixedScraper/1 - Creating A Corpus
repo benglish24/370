@@ -1,0 +1,7 @@
+For the following two notebooks, I focus primarily on scraping AZLyrics for songs
+by the artist MFDoom. The interest in MFDoom stems from his incredible song-writing
+ability and his large, unpredictable vocabulary. The priority of this section is to
+scrape AZLyrics ethically (as to not get flagged for being a bad crawler) and create a 
+corpus for MFDoom containing his songs, seperated by their names. This will later allow 
+them to be analyzed and interpreted in section 2's "Corpus Sentiments"
+
